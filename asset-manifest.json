@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Jaek-Kein/WebP_W12/static/css/main.f855e6bc.css",
+    "main.js": "/Jaek-Kein/WebP_W12/static/js/main.f24b1a7a.js",
+    "static/js/787.a4b45000.chunk.js": "/Jaek-Kein/WebP_W12/static/js/787.a4b45000.chunk.js",
+    "static/media/Login2.png": "/Jaek-Kein/WebP_W12/static/media/Login2.1c8dc7064e3a757f240b.png",
+    "static/media/Login1.png": "/Jaek-Kein/WebP_W12/static/media/Login1.37c643833181dc307af6.png",
+    "static/media/Search2.png": "/Jaek-Kein/WebP_W12/static/media/Search2.5e52ce355eba48013f5b.png",
+    "index.html": "/Jaek-Kein/WebP_W12/index.html",
+    "main.f855e6bc.css.map": "/Jaek-Kein/WebP_W12/static/css/main.f855e6bc.css.map",
+    "main.f24b1a7a.js.map": "/Jaek-Kein/WebP_W12/static/js/main.f24b1a7a.js.map",
+    "787.a4b45000.chunk.js.map": "/Jaek-Kein/WebP_W12/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f24b1a7a.js"
+  ]
+}
